@@ -1,0 +1,14 @@
+.about-section {
+  background-color: #1abc9c;
+  color: #fff;
+  height: 80vh;
+}
+.middle-star .icon {
+  margin: 0 1rem;
+}
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: #fff;
+  display: inline-block;
+}
